@@ -1,4 +1,4 @@
-# My Recipe Book
+# Chandrahaas Kitchen
 
 ## Recipes
 
